@@ -13,7 +13,7 @@ Data Science is all about the use of machine learning and statistical methods an
 
 ## Knowledge and Skill Areas
 
-Data Scientist need to have skills from various domains including math and statistics of course, but also programming, computer science, domain and business expertise, data manipulation, machine learning, and data visualization. 
+Data Scientists need to have skills from various domains including math and statistics of course, but also programming, computer science, domain and business expertise, data manipulation, machine learning, and data visualization. 
 
 ## Differences and Similarities between Statisticians and Data Scientists
 
