@@ -10,6 +10,6 @@ I'm Heather, a lifetime learner and data nerd. I'm passionate about applying sta
 * General musings
 * An Occasional cameo appearance from Della my trusty sidekick, study buddy, and pen burglar:
 
-![Della, Distractor-in-Chief](jpg/distractor-in-chief.jpg){width=400px}
+![Della, Distractor-in-Chief](jpg/distractor-in-chief.jpg)
 
 [#RCatLadies](https://twitter.com/RCatLadies?s=20)
