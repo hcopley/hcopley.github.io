@@ -15,11 +15,11 @@ The overall goal is to better gain a deeper understanding of the data's characte
 
 ## Strategy
 
-The strategy for EDA often involves addressing the following questions. The process can be linear or cyclical, with certain steps revisited as new insights are discoverd.
+The strategy for EDA often involves addressing the following questions. The process can be linear or cyclical, with certain steps revisited as new insights are discovered.
 
 ### What is the objective? 
 
-At the heart of an effective EDA strategy is clarity about the ultimate goal. Before even looking at the data it's important to understand what questions you might be trying to answer or problems you want to solve and their context. Are you aiming to predict an outcome, discern natural groupings, answer specific queries, or understand certain relationships? Establishing clear objectives upfront is crucial. Keeping this objective in mind throughout the process of EDA is also important.
+At the heart of an effective EDA strategy is clarity about the ultimate goal. Before even looking at the data it's important to understand what questions you might be trying to answer or problems you want to solve and their context. Are you aiming to predict an outcome, discern natural groupings, answer specific questions, or understand certain relationships? Establishing clear objectives upfront is crucial. Keeping this objective in mind throughout the process of EDA is also important.
 
 ### What is the overall structure?
 
