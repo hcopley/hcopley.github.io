@@ -11,7 +11,7 @@ output:
 
 ### Project Objective
 
-This project's aim was to automate the production of R Markdown reports for developing predictive models for distinct subsets of diabetes data. The data was segmented into levels of highest education reached by the respondents and reports were automated through an Rmarkdown document with parameters. Multiple models were attempted on each data segment and the optimal model among them was ultimately chosen. 
+This was a collaborative project with the aim of automating the production of R Markdown reports for developing predictive models for distinct subsets of diabetes data. The data was segmented into levels of highest education reached by the respondents and reports were automated through an Rmarkdown document with parameters. Multiple models were attempted on each data segment and the optimal model among them was ultimately chosen. 
 
 ### Project Links
 
@@ -35,6 +35,6 @@ The most significant challenge I encountered in this project was managing GitHub
 
 ### My take-aways from this project
 
-I found it surprising how the varying education levels in our datasets led to such different outcomes in terms to the optimal model chosen. I found it interesting to that in some instances, ensemble methods, which are generally considered more flexible and powerful, didn't outperform a simple logistic regression. This really highlighted for me the nuanced nature of predictive modeling and the importance of considering the specific characteristics of each data segment and trying many model types when choosing a modeling approach. I also found it interesting coding for different scenarios that arise when automating tasks. As an example there was one particular classification tree that completed with no branches. We had planned to graph all of our trees and this made a unique challenge for only one subset of the data. I realized how important it is to plan for contingencies when coding for automation because unforseen scenarios can happen especially if we were to include new data. 
+I found it surprising how the varying education levels in our datasets led to such different outcomes in terms to the optimal model chosen. I found it interesting to that in some instances, ensemble methods, which are generally considered more flexible and powerful, didn't outperform a simple logistic regression. This really highlighted for me the nuanced nature of predictive modeling and the importance of considering the specific characteristics of each data segment and trying many model types when choosing a modeling approach. I also found it interesting coding for different scenarios that arise when automating tasks. As an example there was one particular classification tree that completed with no branches. We had planned to graph all of our trees and this made a unique challenge for only one subset of the data. I realized how important it is to plan for contingencies when coding for automation because unforseen scenarios can happen especially if we were to include new data. I also have never worked collaboratively with another person on the same project in the same github repository. I expected that to be extremely difficult, but I found that part of the process to be easy and seamless.
 
 
