@@ -7,6 +7,8 @@ output:
         keep_md: yes
 ---
 
+## Project 3 Reflection
+
 ### Project Objective
 
 This project's aim was to automate the production of R Markdown reports for developing predictive models for distinct subsets of diabetes data. The data was segmented into levels of highest education reached by the respondents and reports were automated through an Rmarkdown document with parameters. Multiple models were attempted on each data segment and the optimal model among them was ultimately chosen. 
